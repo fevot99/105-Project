@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Title and description
-st.title("Simple Streamlit App")
-st.write("This is a simple example of a Streamlit app.")
+st.title("ITI105 App")
+st.write("This is a simple example of a ITI105 app.")
 
 # Adding a sidebar
 st.sidebar.title("Sidebar")
